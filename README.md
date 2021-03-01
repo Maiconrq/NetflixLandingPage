@@ -1,14 +1,14 @@
 # NetflixLandingPage
 
 [![Série](https://img.shields.io/badge/Maiconrq-NetflixLandingPage-green)](https://github.com/Maiconrq/NetflixLandingPage)
-[![licence mit](https://img.shields.io/badge/licence-MIT-white.svg)](https://github.com/afonsopacifer/open-source-boilerplate/blob/master/LICENSE.md)
+[![licence mit](https://img.shields.io/badge/licence-MIT-white.svg)](https://github.com/Maiconrq/NetflixLandingPage/blob/main/LICENSE.md)
 ![language](https://img.shields.io/badge/html-pure-orange)
 ![language](https://img.shields.io/badge/css-pure-blue)
 ![language](https://img.shields.io/badge/javascript-pure-yellow)
 
-:rocket: Project with OO approaches and Java applications. 
+:rocket: Landing Page based on Netflix streaming service, code based on this [video](https://www.youtube.com/watch?v=44OcU1PJWCA). 
 
-> :rocket: **Projeto com abordagens de OO e aplicações em Java.**
+> :rocket: **Página de destino baseada no serviço de streaming da Netflix, código baseado nesse [video](https://www.youtube.com/watch?v=44OcU1PJWCA).**
 
 
 ## Versioning / Versionamento
@@ -25,10 +25,10 @@
 
 
 ## History / História
-- See [Commit changes](https://github.com/Maiconrq/INMTE/commits/main) for details.
+- See [Commit changes](https://github.com/Maiconrq/NetflixLandingPage/commits/main) for details.
 
-> **Consulte [Mudanças de commit](https://github.com/Maiconrq/INMTE/commits/main) para obter detalhes.**
+> **Consulte [Mudanças de commit](https://github.com/Maiconrq/NetflixLandingPage/commits/main) para obter detalhes.**
 
 
 ## License / Licença
-[MIT License](https://github.com/Maiconrq/INMTE/blob/main/LICENSE) © [Maicon Rodrigues](https://github.com/Maiconrq)
+[MIT License](https://github.com/Maiconrq/NetflixLandingPage/blob/main/LICENSE.md) © [Maicon Rodrigues](https://github.com/Maiconrq)
