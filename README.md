@@ -1,6 +1,6 @@
 # NetflixLandingPage
 
-[![Série](https://img.shields.io/badge/Maiconrq-NetflixLandingPage-green)](https://github.com/Maiconrq/NetflixLandingPage)
+[![Série](https://img.shields.io/badge/Maiconrq-NetflixLandingPage-red)](https://github.com/Maiconrq/NetflixLandingPage)
 [![licence mit](https://img.shields.io/badge/licence-MIT-white.svg)](https://github.com/Maiconrq/NetflixLandingPage/blob/main/LICENSE.md)
 ![language](https://img.shields.io/badge/html-pure-orange)
 ![language](https://img.shields.io/badge/css-pure-blue)
