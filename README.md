@@ -6,9 +6,9 @@
 ![language](https://img.shields.io/badge/css-pure-blue)
 ![language](https://img.shields.io/badge/javascript-pure-yellow)
 
-:rocket: Landing Page based on Netflix streaming service, code based on this [video](https://www.youtube.com/watch?v=44OcU1PJWCA). 
+:rocket: [Landing Page](https://maiconrq.github.io/NetflixLandingPage/) based on Netflix streaming service, code based on this [video](https://www.youtube.com/watch?v=44OcU1PJWCA). 
 
-> :rocket: **Página de destino baseada no serviço de streaming da Netflix, código baseado nesse [video](https://www.youtube.com/watch?v=44OcU1PJWCA).**
+> :rocket: **[Página de destino](https://maiconrq.github.io/NetflixLandingPage/) baseada no serviço de streaming da Netflix, código baseado nesse [video](https://www.youtube.com/watch?v=44OcU1PJWCA).**
 
 
 ## Versioning / Versionamento
